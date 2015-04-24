@@ -1,0 +1,9 @@
+C:\Users\萌萌的喵喵\Documents\Visual Studio 2013\Projects\C#\2048-2D\2048-2D\bin\Debug\2048-2D.exe.config
+C:\Users\萌萌的喵喵\Documents\Visual Studio 2013\Projects\C#\2048-2D\2048-2D\bin\Debug\2048-2D.exe
+C:\Users\萌萌的喵喵\Documents\Visual Studio 2013\Projects\C#\2048-2D\2048-2D\bin\Debug\2048-2D.pdb
+C:\Users\萌萌的喵喵\Documents\Visual Studio 2013\Projects\C#\2048-2D\2048-2D\obj\Debug\2048-2D.csprojResolveAssemblyReference.cache
+C:\Users\萌萌的喵喵\Documents\Visual Studio 2013\Projects\C#\2048-2D\2048-2D\obj\Debug\_2048_2D.Form1.resources
+C:\Users\萌萌的喵喵\Documents\Visual Studio 2013\Projects\C#\2048-2D\2048-2D\obj\Debug\_2048_2D.Properties.Resources.resources
+C:\Users\萌萌的喵喵\Documents\Visual Studio 2013\Projects\C#\2048-2D\2048-2D\obj\Debug\2048-2D.csproj.GenerateResource.Cache
+C:\Users\萌萌的喵喵\Documents\Visual Studio 2013\Projects\C#\2048-2D\2048-2D\obj\Debug\2048-2D.exe
+C:\Users\萌萌的喵喵\Documents\Visual Studio 2013\Projects\C#\2048-2D\2048-2D\obj\Debug\2048-2D.pdb
